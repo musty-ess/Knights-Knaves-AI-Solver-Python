@@ -1,4 +1,4 @@
-# Knights and Knaves Solver
+# Knights and Knaves
 
 ## Project Overview
 
