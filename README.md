@@ -1,4 +1,4 @@
-# Knights and Knaves Knowledge Representation AI With Python
+# Knights And Knaves Logic Puzzle Solver AI
 
 ## Project Overview
 
