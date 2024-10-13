@@ -48,11 +48,5 @@ After encoding the knowledge bases, I ran `python puzzle.py` to verify that the 
 ## How to Run
 
 1. Ensure that you have Python 3.12 installed.
-2. Clone the repo using: 
-```bash
-git clone https://github.com/musty-ess/Knights-Knaves-AI-Solver-Python.git
-```
-3. Run the puzzles using: 
-```bash
-python puzzle.py
-```
+2. Clone the repo using: `git clone https://github.com/musty-ess/Knights-and-Knaves-Logic-Puzzle-Solver-AI.git`
+3. Run the puzzles using: `python puzzle.py`
