@@ -1,4 +1,4 @@
-# Knights and Knaves
+# Knights and Knaves Knowledge Representation AI With Python
 
 ## Project Overview
 
